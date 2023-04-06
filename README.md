@@ -20,6 +20,8 @@ Hsmm	H3k4me2	H3k4me2StdAlnRep1.bam	ControlStdAlnRep1.bam<br>
 <br>
 Табличка с номерами эпигенетических типов, их характерные эпигенетические метки и другие свойства, а также присвоенные им названия
 <br>
+скрин | комментарии | выбор
+--- | --- | ---
 ![avatar](1_5.png)| исходя из выдачи ChromHMM типичные метки - H3k4me1 и H3k4me2 | 5_Strong enhancer
 ![avatar](4_1.png) | типичные метки -  H3k4me2, H2az, CH3k79me2б часто попадает на гены(экзоны)| 1_Active Promoter
 ![avatar](5_4.png)|типичные метки -CH3k79me2, H3k4me1 и H3k4me2| 4_Strong enhancer
