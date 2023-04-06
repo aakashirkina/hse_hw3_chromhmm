@@ -33,5 +33,4 @@ Hsmm	H3k4me2	H3k4me2StdAlnRep1.bam	ControlStdAlnRep1.bam<br>
 Остальные состояния либо не встречаются, либо встречаются слишком на короткий период
 <br>
 Бонус
-<br>
-![avatar](bonus.)
+![avatar](bonus.png)
